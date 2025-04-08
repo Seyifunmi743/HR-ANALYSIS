@@ -72,15 +72,33 @@ HR lags significantly ($0.4M).
 
 ## 5.  Employee by Overtime
 
-1,100 employees do not work overtime, while 400 (27.2%) do.
+1,100 (73%) employees do not work overtime, while 400 (27.2%) do.
 
 ## Insight: Overtime is not widespread, but the 400 who do could be clustered in high-pressure departments like Sales or Research & Development.
 ![Image](https://github.com/user-attachments/assets/a4e8e182-3dc1-4e73-bc68-4099a4cd713c)
 
 ## 6.  Employee by Gender
 
-Male employees dominate (882 vs. 588).
+Male employees dominate 882  while Female employees of 588.
 
 ## Insight: There’s a 60-40 gender split favoring males. May warrant diversity review or equity initiatives depending on roles.
  
 ![Image](https://github.com/user-attachments/assets/2ef99b8f-956a-48e1-8beb-239c844e3ede)
+
+## Monthly Income by Age Category
+
+Age Category	Total Monthly Income	Observation
+Adult	$6.0M	Highest contributor
+Middle Age	$3.2M	Moderate
+Young Adult	$0.4M	Very low
+Senior Age	$0.1M	Minimal
+
+ ## Insight:
+
+The Adult age group is the primary income contributor—likely mid-career, experienced individuals in well-paying roles.
+
+Young Adults and Seniors are underrepresented or in lower-paid positions. This could impact succession planning or knowledge transfer.
+
+![Image](https://github.com/user-attachments/assets/e7da9abe-4110-4282-a640-3b4260a692f0)
+
+
