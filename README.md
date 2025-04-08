@@ -13,4 +13,7 @@ Gender Split
 
  Male:  882 (60%)
 
- Female:      588 (40%)
+ Female:  588 (40%)
+
+ ##  Employee by Department
+
