@@ -17,3 +17,13 @@ Gender Split
 
  ##  Employee by Department
 
+* Research & Development has the highest headcount: 961 employees (65.37%)
+
+* Sales: 446 employees (30.34%)
+
+* HR: Only 63 employees (4.29%)
+
+# Insight:Research & Development is the core of the organization in terms of manpower. HR is significantly understaffed.
+
+ 
+![Image](https://github.com/user-attachments/assets/eea85683-939c-4461-b2d7-d0169c97c0a2)
