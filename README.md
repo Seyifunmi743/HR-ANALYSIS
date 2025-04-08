@@ -90,9 +90,13 @@ Male employees dominate 882  while Female employees of 588.
 ## Age Category	 Total Monthly Income    	Observation
 
 Adult	             $6.0M             	Highest contributor
+
 Middle Age        	$3.2M	               Moderate
+
 Young Adult       	$0.4M               	Very low
+
 Senior Age        	$0.1M               	Minimal
+
 
  ## Insight:
 
