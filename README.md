@@ -23,7 +23,23 @@ Gender Split
 
 * HR: Only 63 employees (4.29%)
 
-# Insight:Research & Development is the core of the organization in terms of manpower. HR is significantly understaffed.
+## Insight:Research & Development is the core of the organization in terms of manpower. HR is significantly understaffed.
 
  
 ![Image](https://github.com/user-attachments/assets/eea85683-939c-4461-b2d7-d0169c97c0a2)
+
+## 📊 Employee by Age
+
+The majority of employees fall in the 30–40 age group, with a peak at:
+
+Age 30–35: 325
+
+Age 35–40: 298
+
+Sharp drop in younger (under 25) and older (over 55) age ranges.
+
+## Insight: The workforce is primarily mid-career professionals; you may need a pipeline for younger talent or succession planning for older groups.
+
+
+
+![Image](https://github.com/user-attachments/assets/368a9b13-3b4c-4885-a391-0a997bc282b3)
