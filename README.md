@@ -15,7 +15,7 @@ Gender Split
 
  Female:  588 (40%)
 
- ## 1 Employee by Department
+ ## 1.  Employee by Department
 
 * Research & Development has the highest headcount: 961 employees (65.37%)
 
@@ -29,7 +29,7 @@ Gender Split
 
 
 
-## 2 Employee by Age
+## 2.  Employee by Age
 
 The majority of employees fall in the 30–40 age group, with a peak at:
 
@@ -45,7 +45,7 @@ Sharp drop in younger (under 25) and older (over 55) age ranges.
 
 
 
-## 3 Monthly Income by Education Field
+## 3.  Monthly Income by Education Field
 
 Life Sciences and Medical fields command the highest monthly income:
 
@@ -60,12 +60,27 @@ Human Resources and Technical Degree fields earn the least.
 ![Image](https://github.com/user-attachments/assets/d889366b-807b-41ba-aa1a-6211f4b7e457)
 
 
-## 4 Monthly Income by Department
+## 4.  Monthly Income by Department
 
 Research & Development leads with a total income of $6.0M, followed by Sales ($3.1M).
 
 HR lags significantly ($0.4M).
 
-## Insight: Budget or salary allocation is heavily tilted toward R&D, possibly due to specialized roles.
+## Insight: Budget or salary allocation is heavily tilted toward Research & Development, possibly due to specialized roles.
  
 ![Image](https://github.com/user-attachments/assets/8cc71b09-c61d-42c6-ab14-52083bc569b3)
+
+## 5.  Employee by Overtime
+
+1,100 employees do not work overtime, while 400 (27.2%) do.
+
+## Insight: Overtime is not widespread, but the 400 who do could be clustered in high-pressure departments like Sales or Research & Development.
+![Image](https://github.com/user-attachments/assets/a4e8e182-3dc1-4e73-bc68-4099a4cd713c)
+
+## 6.  Employee by Gender
+
+Male employees dominate (882 vs. 588).
+
+## Insight: There’s a 60-40 gender split favoring males. May warrant diversity review or equity initiatives depending on roles.
+ 
+![Image](https://github.com/user-attachments/assets/2ef99b8f-956a-48e1-8beb-239c844e3ede)
