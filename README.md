@@ -9,6 +9,6 @@ Average Job Satisfaction 	2.73 / 5
 
 Overtime Employees	 400 (27.2%)
 
-Gender Split	Male:  882 (60%)
+Gender Split	   Male:  882 (60%)
 
-Female:      588 (40%)
+                 Female:      588 (40%)
