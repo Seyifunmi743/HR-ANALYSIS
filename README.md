@@ -92,12 +92,7 @@ Male employees dominate 882  while Female employees of 588.
 
 ![Image](https://github.com/user-attachments/assets/25494a36-4fc4-4394-b2e2-b817add48284)
 
- ## Insight:
-Interpretation:
-
-Adults (likely 30–40 years) are the most economically productive.
-
-Young Adults and Seniors are contributing very little—indicating either fewer people in those categories or they hold lower-paying positions.
+ 
 
 
 
