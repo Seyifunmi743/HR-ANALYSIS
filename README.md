@@ -31,16 +31,15 @@ Gender Split
 
 ## 2.  Employee by Age
 
-The majority of employees fall in the 30–40 age group, with a peak at:
+Largest age groups:
 
-Age 30–35: 325
+30–35 years: 325 employees
 
-Age 35–40: 298
+35–40 years: 289 employees
 
-Sharp drop in younger (under 25) and older (over 55) age ranges.
+25–30 years: 229 employees
 
-## Insight: The workforce is primarily mid-career professionals; you may need a pipeline for younger talent or succession planning for older groups.
-
+## Insight:A majority of employees fall in the 25–40 range, indicating a relatively young and potentially dynamic workforce.
 ![Image](https://github.com/user-attachments/assets/368a9b13-3b4c-4885-a391-0a997bc282b3)
 
 
