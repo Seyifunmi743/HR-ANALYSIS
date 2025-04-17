@@ -90,22 +90,16 @@ Male employees dominate 882  while Female employees of 588.
 
 ## Monthly Income by Age Category
 
-## Age Category	 Total Monthly Income       	Observation
-
-Adult	                $6.0M                  	Highest contributor
-
-Middle Age            $3.2M	                   Moderate
-
-Young Adult       	   $0.4M                    Very low
-
-Senior Age            	$0.1M               	     Minimal
-
+![Image](https://github.com/user-attachments/assets/25494a36-4fc4-4394-b2e2-b817add48284)
 
  ## Insight:
+Interpretation:
 
-The Adult age group is the primary income contributor—likely mid-career, experienced individuals in well-paying roles.
+Adults (likely 30–40 years) are the most economically productive.
 
-Young Adults and Seniors are underrepresented or in lower-paid positions. This could impact succession planning or knowledge transfer.
+Young Adults and Seniors are contributing very little—indicating either fewer people in those categories or they hold lower-paying positions.
+
+
 
 ![Image](https://github.com/user-attachments/assets/e7da9abe-4110-4282-a640-3b4260a692f0)
 
