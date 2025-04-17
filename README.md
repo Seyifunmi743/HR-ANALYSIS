@@ -92,13 +92,15 @@ Male employees dominate 882  while Female employees of 588.
 
 ![Image](https://github.com/user-attachments/assets/25494a36-4fc4-4394-b2e2-b817add48284)
 
+![Image](https://github.com/user-attachments/assets/e7da9abe-4110-4282-a640-3b4260a692f0)
+
+
+
 ## Monthly Income by Business Travel
 
 ![Image](https://github.com/user-attachments/assets/8beeb68f-e618-4b75-ac32-8dcd826c2b8e)
+
  
-
-
-
-![Image](https://github.com/user-attachments/assets/e7da9abe-4110-4282-a640-3b4260a692f0)
+![Image](https://github.com/user-attachments/assets/6abd9464-f622-4af9-bd03-f9f9ec908151)
 
 
