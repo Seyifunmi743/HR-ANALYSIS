@@ -103,4 +103,8 @@ Male employees dominate 882  while Female employees of 588.
  
 ![Image](https://github.com/user-attachments/assets/6abd9464-f622-4af9-bd03-f9f9ec908151)
 
+## Key Influencers of Attrition
+ 
+![Image](https://github.com/user-attachments/assets/8c857a04-e1ad-4b7e-b95f-1a451cfb5176)
 
+![Image](https://github.com/user-attachments/assets/cc8ad147-38e5-4338-9b3e-d65dbaa882a6)
