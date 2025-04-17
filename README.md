@@ -46,26 +46,30 @@ Largest age groups:
 
 ## 3.  Monthly Income by Education Field
 
-Life Sciences and Medical fields command the highest monthly income:
+Top 3 Earning Fields:
 
-Life Sciences: ~$3.9M total
+Life Sciences: ~$4M
 
-Medical: ~$3.0M total
+Medical: ~$3.9M
 
-Human Resources and Technical Degree fields earn the least.
+Marketing: ~$3M
 
-## Insight: Education field significantly influences income—could imply technical/scientific expertise is highly valued.
+Lowest: Human Resources (~$0.2M)
+
+## Insight: Education fields closely linked to core technical or scientific disciplines are the highest earners, supporting the R&D-heavy structure
  
 ![Image](https://github.com/user-attachments/assets/d889366b-807b-41ba-aa1a-6211f4b7e457)
 
 
 ## 4.  Monthly Income by Department
+Research & Development: ~$6.0M
 
-Research & Development leads with a total income of $6.0M, followed by Sales ($3.1M).
+Sales: ~$3.1M
 
-HR lags significantly ($0.4M).
+Human Resources: ~$0.4M
+## Insight: Investment in R&D not only reflects in headcount but also in salary distribution, reinforcing strategic focus on innovation.
 
-## Insight: Budget or salary allocation is heavily tilted toward Research & Development, possibly due to specialized roles.
+
  
 ![Image](https://github.com/user-attachments/assets/8cc71b09-c61d-42c6-ab14-52083bc569b3)
 
