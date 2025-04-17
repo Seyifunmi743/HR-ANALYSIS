@@ -103,11 +103,13 @@ Male employees dominate 882  while Female employees of 588.
  
 ![Image](https://github.com/user-attachments/assets/6abd9464-f622-4af9-bd03-f9f9ec908151)
 
-DASHBOARD VIEW ONE
+## DASHBOARD VIEW ONE
+
 ![Image](https://github.com/user-attachments/assets/434fe198-ae29-4ddc-85de-9ba4000817b4)
 
 
-DASHBOARD VIEW TWO
+## DASHBOARD VIEW TWO
+
 ![Image](https://github.com/user-attachments/assets/733c5267-17bb-41b5-826d-5ee2c31479a1)
 
 ## Observations
