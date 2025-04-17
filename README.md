@@ -103,8 +103,65 @@ Male employees dominate 882  while Female employees of 588.
  
 ![Image](https://github.com/user-attachments/assets/6abd9464-f622-4af9-bd03-f9f9ec908151)
 
-## Key Influencers of Attrition
- 
-![Image](https://github.com/user-attachments/assets/8c857a04-e1ad-4b7e-b95f-1a451cfb5176)
+DASHBOARD VIEW ONE
+![Image](https://github.com/user-attachments/assets/434fe198-ae29-4ddc-85de-9ba4000817b4)
 
-![Image](https://github.com/user-attachments/assets/cc8ad147-38e5-4338-9b3e-d65dbaa882a6)
+
+DASHBOARD VIEW TWO
+![Image](https://github.com/user-attachments/assets/733c5267-17bb-41b5-826d-5ee2c31479a1)
+
+## Observations
+
+1. Departmental Insights:
+Research & Development (R&D) dominates headcount (65.37%) and monthly income ($6.0M).
+
+Sales and HR have lower headcounts and income, contributing significantly less to the total.
+
+2. Age Distribution:
+Majority of employees are aged 30 to 40.
+
+Very few are under 20 or over 60, indicating a mid-career heavy workforce.
+
+3. Gender Diversity:
+Males (882) significantly outnumber females (588).
+
+A potential opportunity exists to enhance gender balance.
+
+4. Overtime & Attrition:
+Overtime strongly correlates with attrition (2.93x more likely to leave).
+
+Employees with ≤1 year tenure or earning ≤$2,800/month are also more likely to leave.
+
+5. Job Satisfaction:
+Average score is 2.73, signaling moderate satisfaction.
+
+Low job and environment satisfaction are predictors of attrition.
+
+6. Income Insights:
+Adults contribute the most to income ($6.0M), followed by Middle-aged employees.
+
+Life Sciences and Medical fields yield the highest income.
+
+Employees traveling rarely for business generate the most income ($6.9M).
+
+## Recommendations
+1. Attrition Management:
+Target overtime policies: Explore ways to reduce excessive overtime.
+
+Mentorship for new hires: High risk of attrition in employees with ≤1 year at the company.
+
+Income adjustments: Evaluate if increasing compensation for lower-earning groups reduces turnover.
+
+2. Employee Satisfaction:
+Conduct pulse surveys to pinpoint satisfaction pain points.
+
+Improve work-life balance, especially for those clocking overtime.
+
+3. Diversity Initiatives:
+Gender imbalance and limited senior workforce present areas for inclusive hiring efforts.
+
+4. Departmental Investment:
+R&D is performing well — consider expanding it while auditing underperforming areas like HR for potential restructuring or support.
+
+5. Travel Policy Optimization:
+Since employees traveling rarely are more productive or profitable, reassess the necessity and frequency of business travel.
